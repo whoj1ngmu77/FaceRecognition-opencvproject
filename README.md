@@ -1,4 +1,4 @@
-# Face Recognition with OpenCV and face_recognition
+# Face Recognition with OpenCV
 
 This Python project uses OpenCV and the `face_recognition` library to perform real-time face recognition using your webcam. It detects faces, compares them against known faces, 
 and labels recognized people live on the video feed.
